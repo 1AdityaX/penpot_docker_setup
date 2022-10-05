@@ -37,5 +37,5 @@ docker compose logs
 5. you'll be able to find you verfication link there, open the link...and BOOM!! you have logged it!!
 
 ## References
--https://help.penpot.app/technical-guide/getting-started/#install-with-docker
--https://github.com/penpot/penpot
+- https://help.penpot.app/technical-guide/getting-started/#install-with-docker
+- https://github.com/penpot/penpot
