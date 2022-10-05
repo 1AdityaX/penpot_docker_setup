@@ -5,6 +5,7 @@ This repo will walk you through the penpot docker setup
 - [What is Penpot?](https://github.com/AnonymousXsn/penpot_docker_setup#what-is-penpot)
 - [Installing Penpot in a Docker Container](https://github.com/AnonymousXsn/penpot_docker_setup#installing-penpot-in-a-docker-container)
 - [Logging in without actually logging in](https://github.com/AnonymousXsn/penpot_docker_setup#logging-in-without-actually-logging-in)
+- [References](https://github.com/AnonymousXsn/penpot_docker_setup#references)
 
 ## What is Penpot?
 Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open standards (SVG). Penpot invites designers all over the world to fall in love with open source while getting developers excited about the design process in return.
@@ -34,3 +35,7 @@ This will start listening on http://localhost:9001
 docker compose logs
 ```
 5. you'll be able to find you verfication link there, open the link...and BOOM!! you have logged it!!
+
+## References
+https://help.penpot.app/technical-guide/getting-started/#install-with-docker
+https://github.com/penpot/penpot
